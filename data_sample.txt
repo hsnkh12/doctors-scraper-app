@@ -1,0 +1,540 @@
+{
+    "name": "Jin. Op. Dr. Serap Kağan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "IN VITRO FERTILIZATION",
+    "education": "Ankara Üniversitesi Tıp Fakültesi 1982-1988Zekai Tahir Burak kadın Hastanesi ve Doğum Evi, İhtisas 1989-1994Memorial Hastanesi Tüp Bebek Merkezi, Tüp Bebek Uzmanlığı 2008",
+    "experience": "21 Yıl Kadın Hastalıkları ve Doğum Uzmanlığı 9 yıl Tüp Bebek Uzmanlığı",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/Jin.-Op.-Dr.-Serap-Kagan.jpg"
+}
+{
+    "name": "Op. Dr. Mehmet İnan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "General Surgery",
+    "education": "Hacettepe Üniversitesi Tıp Fakültesi 1984-1990\r\nHacettepe Üniversitesi Genel Cerrahi Ana Bilim Dalı, 1990-1996",
+    "experience": "Cyprus Central Hospital, 1996- halen\nDAÜ Sağlık Bilimleri Fakültesi- Yarı zamanlı Öğretim Görevlisi,\r\n2010-2021",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/MehmetInan.jpg"
+}
+{
+    "name": "Uzm. Dr. Aykut Üretici",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Physical Treatment and Rehabilitation",
+    "education": "Cerrahpaşa Tıp Fakültesi - 1988 Şişli Eftal Hastanesi Uzmanlık - 1992",
+    "experience": "Cyprus Central Hospital 1995-HalenMağusa Devlet Hastanesi 2003-2022Mağusa Devlet Hastanesi 1994-1997",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2017/04/AykutUretici.jpg"
+}
+{
+    "name": "Uzm. Dr. Cemal Mert",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Pediatrics",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi, 1991 İstanbul Şişli Eftal Hastanesi uzmanlık eğitimi, 1995",
+    "experience": "Cyprus Central Hospital, 1999 - Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2017/04/CemalMert.jpg"
+}
+{
+    "name": "Uzm. Dr. Selçuk Çağsın",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Gastroenterology",
+    "education": "Ankara Üniversitesi Tıp Fakültesi, 1987\r\nİç Hastalıkları yarı dönem Dr. Burhan Nalbantoğlu Devlet Hastanesi Yarı dönem Ankara Numune Hastanesi 1985-1992\r\nGastroenteroloji İbni Sina Hastanesi, 1995-1998",
+    "experience": "Cyprus Central Hospital 1995-halen\r\nDr. Burhan Nalbantoğlu Devlet Hastanesi 1998-2017",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/SelcukCagsin-1024x1024-min.jpg"
+}
+{
+    "name": "Dr. Dt. Alev İnan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "X Orthesis and Prosthesis",
+    "education": "Hacettepe Üniversitesi Diş Hekimliği Fakültesi, 1991\r\nGazi Üniversitesi Diş Hekimliği Fakültesi Protetik Diş Hekimliği Doktora, 1996",
+    "experience": "Cyprus Central Hospital - 1996 - halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2017/04/AlevInan.jpg"
+}
+{
+    "name": "Uzm. Dr. İbrahim Kobat",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Pathology",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi (Çapa Tıp) Ankara Üniversitesi Tıp Fakültesi, 1992\r\nAnkara Üniversitesi Patoloji Ana Bilim Dalı- uzmanlık, 1997",
+    "experience": "Cyprus Central Hospital 1997- halen\r\nMağusa Devlet Hastanesi 2008-2009\r\nMağusa Devlet Hastanesi 2018- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/IbrahimKobat.jpg"
+}
+{
+    "name": "Uzm. Dr. Ahmet Körceğez",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Internal Medicine",
+    "education": "9 Eylül Üniversitesi Tıp Fakültesi -1994 İstanbul Eğitim Hastanesi – Uzmanlık Eğitimi - 1999Yakın Doğu Üniversitesi İş Sağlığı ve Güvenliği – Yüksek Lisans - 2018",
+    "experience": "Cyprus Central HospitalMağusa Devlet Hastanesi",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2017/04/AhmetKorcegiz-e1673814741218.jpg"
+}
+{
+    "name": "Op. Dr. Sıdıka Taşeloğlu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Ophthalmology",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi, 1987- 1993\r\nŞişli Eftal Eğitim ve Araştırma Hastanesi Göz Hastalıkları Kliniği, 1995-1999",
+    "experience": "Cyprus Central Hospital, 2004- halen\r\nMağusa Devlet Hastanesi, 2008- halen\r\nDr. Burhan Nalbantoğlu Devlet Hastanesi, 2003-2007\r\nÜmraniye Özel Erdem Hastanesi, 1999-2003\r\nŞişli Eftal Eğitim ve Araştırma Hastanesi Göz Kliniğinde uzmanlığımı tamamladım. Orada özellikle Katarakt, Oküloplasti, Glokom ameliyatları üzerinde ve Kornea birim sorumlusu olarak nakil ameliyatları konularında çalıştım.",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/SidikaTaseloglu.jpg"
+}
+{
+    "name": "Uzm. Dr. Hakan Debeş",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Cardiology",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi, 1987-1993  Koşuyolu Kalp ve Araştırma Hastanesi, 1994-1998",
+    "experience": "İstanbul Alman Hastanesi, 1998-1999  İstanbul Türkiye Hastanesi, 1999-2001Yalova SSK Hastanesi, 2001-2002  Mağusa Devlet Hastanesi, 2002- halen  Dr. Burhan Nalbantoğlu Devlet Hastanesi, 2002- halen  Cyprus Central Hospital, 2002- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/Hakan-Debes.jpg"
+}
+{
+    "name": "Jin. Op. Dr. İçten Kıvançlı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Gynecology and Obstetrics",
+    "education": "Ankara Üniversitesi Tıp Fakültesi, 2000-2006\r\nAnkara Üniversitesi Tıp Fakültesi Kadın Hastalıkları ve Doğum Anabilim Dalı, 2007-2012",
+    "experience": "Mağusa Devlet Hastanesi, 2013-2015   Cyprus Central Hospital, 2015- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/IctenKivancli.jpg"
+}
+{
+    "name": "Op. Dr. Mustafa Hasoğlan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Orthopedics and Traumatology",
+    "education": "Hacettepe Üniversitesi Tıp Fakültesi, 1995\r\nAnkara Numune Hastanesi, 2000",
+    "experience": "Girne Askeri Hastanesi 2000-2002\r\nCyprus Central Hospital 2003-Halen\r\nMağusa Devlet Hastanesi 2003-Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/MustafaHasoglan.jpg"
+}
+{
+    "name": "Op. Dr. Mehmet Tuzlalı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Urology",
+    "education": "Ankara Üniversitesi Tıp Fakültesi, 1995-2002\r\nLefkoşa Dr. Burhan Nalbantoğlu Devlet Hastanesi, 2002-2005\r\nAtatürk Eğitim ve Araştırma Hastanesi, 2005-2008",
+    "experience": "Cyprus Central Hospital 2008-Halen\r\nMağusa Devlet Hastanesi 2008-Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/MehmetTuzlali.jpg"
+}
+{
+    "name": "Uzm. Dr. Nezire Güllü",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Cardiology",
+    "education": "İstanbul Üniversitesi Çapa Tıp Fakültesi, 1986-1992\r\nSiyami Ersek Göğüs Kalp Damar Cerrahisi Merkezi, 1993-1997",
+    "experience": "1993 yılından beridir Kardiyoloji Uzmanı olarak görev yapmaktadır.\r\nTürk Kızılayı Özel Ticaret Borsası Hastanesi, 2007-2018\r\nCyprus Central Hospital, 2018- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/NezireGullu.jpg"
+}
+{
+    "name": "Op. Dr. Rohat Kutlay",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Aesthetics and Plastic Reconstructive Surgery",
+    "education": "Ankara Üniversitesi Tıp Fakültesi 1984-1990Ankara Numune Hastanesi 1990- 1996",
+    "experience": "Cyprus Central Hospital, 2018- halen\r\nYeryüzü Doktorları aracılı ile Filistin’de 10 gün hizmet vermiştir, 2015 \r\nMuayenehane  Hekimliği, 2012- halen\r\nDr. Ersin Aslan Gaziantep Devlet Hastanesi, 2000-2012\r\nGüzelyalı Askeri Hava Hastanesi, 1999-2000\r\nGaziantep Devlet Hastanesi, 1996-1999\r\nİsveç Karolinska Enstitüsü Plastik Cerrahi Kliniği, 1995-1996",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/RohatKutlay.jpg"
+}
+{
+    "name": "Uzm. Dr. Filiz Çalışkaner",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Internal Medicine",
+    "education": "Ege Üniversitesi Tıp Fakültesi  İzmir Devlet Hastanesi İhtisas",
+    "experience": "31 yıldır mesleğini icra ediyor  Cyprus Central Hospital: 2022-halen  İstanbul Cerrahi Hastanesi  LİV Ulus Hastanesi  Şişli Kolan Hastanesi  Boğaziçi Tıp Merkezi",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/FilizCaliskaner.jpg"
+}
+{
+    "name": "Op. Dr. Tevfik Eker",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "General Surgery",
+    "education": "Çukurova Üniversitesi Tıp Fakültesi, 2001-2007Ankara Üniversitesi Tıp Fakültesi, Genel Cerrahi Uzmanliği, 2008-2013Ankara Üniversitesi Tıp Fakültesi, Periferik Damar Cerrahisi, 2008-2013Ankara Üniversitesi Tıp Fakültesi, Endoskopi Eğitimi, 2008-2013Medicana Interational Ankara Hastanesi Karaciğer Nakli, 2014Medicana Interational Ankara Hastanesi Böbrek Nakli, 2014",
+    "experience": "Cyprus Central Hospital, 2015 - HalenMedicana Interational Ankara Hastanesi Karaciğer ve Böbrek Nakli Merkezi, 2014 – 2015Gazimağusa Devlet Hastanesi, 2015 - HalenErasmus Mc, University Medical CenterKaraciğer, Safra Yolları, Pankreas Cerrahisi ve Karaciğer Nakli Merkezi 2020 Rotterdam/Hollanda",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/TevfikEker.jpg"
+}
+{
+    "name": "Uzm. Dr. Hakkı Serhat Tulay",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Radiology",
+    "education": "On Dokuz Mayıs Üniversitesi Tıp Fakültesi, 1992-1998\r\nKatip Çelebi Üniversitesi Tıp Fakültesi Radyoloji Ana Bilim Dalı, 2000-2005\r\nHaccettepe Üniversitesi Radyoloji Ana Bilim Dalı Kardiyak BT Kursu, 2006",
+    "experience": "Cyprus Central Hospital, 2005- halen\r\nMağusa Devlet Hastanesi, 2009- halen\r\nDr. Burhan Nalbantoğlu Devlet Hastanesi, 2007- 2009",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/H.SerhatTulay.jpg"
+}
+{
+    "name": "Uzm. Dr. Süreyya Vudalı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Radiology",
+    "education": "Hacettepe Üniversitesi Tıp Fakültesi, 2004\r\nHacettepe Üniversitesi Radyoloji Ana Bilim Dalı - 2011",
+    "experience": "Cyprus Central Hospital, 2013 - Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/SureyyaVudali.jpg"
+}
+{
+    "name": "Uzm. Dr. Hüseyin Sennaroğlu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Radiology",
+    "education": "Maltepe Üniverstesi Tıp Fakültesi: 2005 – 2011  Asistan doktor olarak eğitim Gemeinschaftspraxis für Radiologie Landwehr & Topcu (RADTOP): 2014 –2016   Asistan doktor olarak eğitim Blikk Holding & Radiologie Herne: 2019-2022",
+    "experience": "Cyprus Central Hospital: 2022-halen  KKTC Dr Burhan Nalbantoğlu - Lefkoşa Acil durum Hastanesi  Gazimağusa Devlet Hastanesi Radyoloji: 2022-halen  Izmir Tınaztepe Girişimsel Radyoloji ve Tepecik Eğitim Araştırma Hastanesi Girişimsel Radyoloji: 10/2021-05/2022",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/HuseyinSennaroglu-e1673814857423.jpg"
+}
+{
+    "name": "Uzm. Dr. Murat Ekemen",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Anesthesia and Reanimation",
+    "education": "Erciyes Üniversitesi Tıp Fakültesi, 1995-2004\r\nDokuz Eylül Üniversitesi Anestezi ve Reanimasyon, 2010-2015\r\nYabancı Dil Eğitimi (A.B.D), 2017",
+    "experience": "• SSK Kahramanmaraş Hastanesi 2004\r\n• SGK Adana il Müdürlüğü Fatura İnceleme Komisyonu 2005-2008\r\n• TSK Askeri Hekim Şırnak 2008-2009\r\n• SGK Adana il Müdürlüğü Fatura İnceleme Komisyonu 2009-2010\r\n• Ağrı Doğubayazıt Devlet Hastanesi 2015-2017\r\n• Manisa Salihli Özel Medigüneş Hastanesi 2017\r\n• İstanbul Özel Amerikan Estetik Tıp Merkezi Ameliyathane Sorumlu Hekimi 2018\r\n• Aydın Söke Egemed Hastanesi Ameliyathane Sorumlu Hekimi 2018-2020\r\n• Muğla Fethiye Özel Letoon Hospital 2020\r\n• Cyprus Central Hospital 2020-Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/MuratEkemen.jpg"
+}
+{
+    "name": "Op. Dr. Hürkan Harutoğlu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Otorhinolaryngology",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi (Çapa Tıp) 1983-1989\r\nHaseki Eğitim ve Araştırma Hastanesi- uzmanlık 1989-1993",
+    "experience": "1996-2003 yılları arasında Mağusa’da kendi kliniğinde çalışmıştır\r\nCyprus Central Hospital 2003-Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/HurkanHarutoglu.jpg"
+}
+{
+    "name": "Uzm. Dr. Türker Erkcan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Pediatrics",
+    "education": "Çukurova Üniversitesi Tıp Fakültesi\r\nZeynep Kamil Devlet Hastanesi uzmanlık eğitimi",
+    "experience": "Cyprus Central Hospital, 2004 - Halen\r\nSeba Çocuk Hastanesi (İstanbul)\r\nGüvencan Hastanesi (İstanbul)\r\nSena Sultan Kliniği (İstanbul)\r\nKadıköy Hayat Hastanesi( İstanbul)\r\nSultan Çiftliği Sultan Hastanesi (İstanbul)\r\nGazi Hastanesi (Ankara)\r\nHuzur Hastanesi ( İstanbul)\r\nBeşiktaş Boğaziçi Tıp Merkezi ( İstanbul)\r\nMedline Klinik ( İstanbul)",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/TurkerErkcan.jpg"
+}
+{
+    "name": "Doç. Dr. Bahar Kaymakamzade",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Neurology",
+    "education": "Trakya Üniversitesi Tıp Fakültesi, 2006 Hacettepe Üniversitesi Tıp Fakültesi Nöroloji Ana Bilim Dalı, 2011  YDÜ Tıp Fakültesi, Nöroloji Anabilim Dalı (Yrd.Doç.Dr) Ocak 2015 - Mart 2017  YDÜ Tıp Fakültesi, Nöroloji Anabilim Dalı (Doç Dr.) 2017 Mart - 2022",
+    "experience": "Cyprus Central Hospital Nöroloji, 2020 - Halen  Dr. Burhan Nalbantoğlu Devlet Hastanesi, 2022 - HalenYDÜ Tıp Fakültesi, Nöroloji Anabilim Dalı, 2013- 2022 Dr.Burhan Nalbantoğlu Devlet Hastanesi, Nöroloji Kliniği, 2011-2013Ar.Gör. Hacettepe Üniversitesi Tıp Fakültesi Nöroloji Anabilim Dalı, 2006-2011",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/BaharKaymakamzade.jpg"
+}
+{
+    "name": "Op. Dr. Ergün Ökçün",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Otorhinolaryngology",
+    "education": "Trakya Üniversitesi Tıp Fakültesi, 1985-1991\r\nHaseki Eğitim ve Araştırma Hastanesi KKB Kliniği, 1992-1996",
+    "experience": "Medi KBB Kliniği, 1996-2011\r\nVKV Amerikan Hastanesi 1996-2011\r\nCyprus Central Hospital 2013-Halen\r\nDr. Burhan Nalbantoğlu Devlet Hastanesi 2014-Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/ErgunOkcun.jpg"
+}
+{
+    "name": "Op. Dr. Çağın Zaim",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Cardiovascular Surgery",
+    "education": "Ankara Üniversitesi Tıp Fakültesi, 1997-2004 Ankara Üniversitesi Tıp Fakültesi Kalp ve Damar Cerrahisi, 2005-2011",
+    "experience": "Cyprus Central Hospital 2014- halenDr. Burhan Nalbantoğlu Devlet Hastanesi 2014-HalenÖzel Kavaklıdere Umut Hastanesi Uzman Hekim\t2013-2014Çankırı Devlet Hastanesi Uzman Hekim\t2011-2013Gülseren Askeri Eğitim Kışlası Uzman Hekim 2011",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/CaginZaim.jpg"
+}
+{
+    "name": "Op. Dr. Kenan Arifoğlu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Aesthetics and Plastic Reconstructive Surgery",
+    "education": "Londra Hastanesi Tıp Fakültesi :1981-1984 Kıbrıs – Higher Instutute Of Technology : 1984-1985  Adana – Çukurova Üniversite Tıp Fakültesi : 1985- 1990  Ankara Numune Hastanesi  2.Plastik ve Rekonstrüktif Cerrahi  Kliniği: 1991-1996",
+    "experience": "Cyprus Central Hospital: 2002-halen Dr. Burhan Nalbantoğlu Devlet Hastanesi Lefkoşa: 1997-2022  Keçiören Polikliniği Ankara: 1996-1997  Türközü Uzmanlar Polikliniği, Ankara Türkiye :1996-1996",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/Kenan-Arifoglu.jpg"
+}
+{
+    "name": "Uzm. Dr. Emine Akçin",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Neurology",
+    "education": "19 Mayıs Üniversitesi Tıp Fakültesi, 1992-1998\r\nDr. Burhan Nalbantoğlu Devlet Hastanesi Nöroloji, 2000-2002\r\nAtatürk Eğitim ve Araştırma Hastanesi Nöroloji, 2002-2004\r\nHacettepe Üniversitesi EMG bölümü, 2007",
+    "experience": "Mehmetçik Sağlık Ocağı, 1998-1999\r\nGeçitkale Sağlık Ocağı, 2002-2002\r\nCyprus Central Hospital, 2004- halen\r\nMağusa Devlet Hastanesi, 2004- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/EmineAkcin.jpg"
+}
+{
+    "name": "Op. Dr. Mehmet Faydalı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Eye Health and Diseases",
+    "education": "Çapa Tıp Fakültesi 1975-1981\r\nİstanbul Numune Hastanesi 1981-1984",
+    "experience": "Küçük Çekmece Kızılay Hastanesi, 1984-1987\r\nMağusa Devlet Hastanesi 1987-2014\r\nCyprus Central Hospital 2014- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/MehmetFaydali.jpg"
+}
+{
+    "name": "Uzm. Dr. Yağmur Babayid",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Internal Medicine",
+    "education": "Dokuz Eylül Üniversitesi Tıp Fakültesi\r\nAnkara Üniversitesi Tıp Fakültesi İç Hastalıkları Ana Bilim Dalı",
+    "experience": "Ankara Üniversitesi İbni-Sina Hastanesi, 2017-2022",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/YagmurBabayid.jpg"
+}
+{
+    "name": "Uzm. Dr. Ruhsan Tuğyan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Skin Diseases",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi (Çapa): 1975  İstanbul Haseki Hastanesi: 1978-1981 Çapa Tıp Fakültesi Allerji Kliniği, Allerji ve Aşı Tedavisi Eğitimi: 01.10.1985-30.12.1985",
+    "experience": "Cyprus Central Hospital: 2005-halen  Yaşam Hastanesi: 2003-2005  Özel Muayene: 1990-2010  Mağusa Devlet Hastanesi, Dermatoloji Uzm: 1981-1990  Mağusa Devlet Hastanesi, Pratisyen Hekim: 1975-1977",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/RuhsanTugyan-e1673814844111.jpg"
+}
+{
+    "name": "Uzm. Dr. Dua Cebeci",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Skin Diseases",
+    "education": "Uludağ  Üniversitesi, Tıp Fakültesi, Tıp Doktorluğu, 2005-2011 Medical Universty Of Silesia, Tıp Doktorluğu, 2010-2011 S.B.Ü Haydarpaşa Numune Eğitim Ve Araştırma Hastanesi Deri Ve Zührevi Hastalıklar Kliniği, 2012-2017",
+    "experience": "Cyprus Central Hospital, 2019- halen\r\nMağusa Devlet Hastanesi, 2022- halen\r\nMağusa Devlet Hastanesi, 2018-2022 mecburi hizmet sözleşmeli hekim",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/DuaCebeci.jpg"
+}
+{
+    "name": "Uzm. Dr. Havva Yeşildağlı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Pulmonology",
+    "education": "Hacettepe Üniversitesi Tıp Fakültesi  Atatürk Göğüs Hastalıkları ve Göğüs Cerrahisi Eğitim ve Araştırma Hastanesi",
+    "experience": "Cyprus Central Hospital (halen)\r\nGazimağusa Devlet Hastanesi (2018-2020)\r\nAcil Durum Hastanesi(2020-2022)\r\nDr.Burhan Nalbantoğlu Devlet Hastanesi(halen)",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/Uzm.-Dr.-Havva-Yesildagli-min.jpg"
+}
+{
+    "name": "Uzm. Dr. Okan Dağlı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Internal Medicine",
+    "education": "İstanbul Üniversitesi Tıp Fakültesi,1982-1988\r\nİstanbul Haseki Hastanesi, 1989-1993",
+    "experience": "Cyprus Central Hospital, 1995- halen\r\nDAÜ Sağlık Bilimleri Fakültesi- Yarı zamanlı Öğretim Görevlisi,2014",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2023/01/OkanDagli-e1673814812363.jpg"
+}
+{
+    "name": "Uzm. Dr. Mehmet Yağlı",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Psychiatry",
+    "education": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi, 1983-1989\r\nBakırköy Ruh ve Sinir Hastalıkları Hastanesi Psikiyatri, 1990-1995",
+    "experience": "Cyprus Central Hospital, 1996- halen\r\nDAÜ sağlık Merkezi ve DAÜ-PDRAM Psikiyatrist, 1997- halen\r\nFransız La Paix, Psikiyatri bölümü (Ruh ve Sinir Hastalıkları Hastanesi), 1990-1995",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/MegmetYagli.jpg"
+}
+{
+    "name": "Yrd. Doç. Dr. Kaan Asvaroğlu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Oral, Dental and Maxillofacial Surgery",
+    "education": "Hacettepe Üniversitesi Diş Hekimliği Fakültesi / 2005-2010Gazi Üniversitesi Diş Hekimliği Fakültesi, Ağız, Diş ve Çene Cerrahisi Anabilim Dalı, Uzmanlık / 2010- 2015",
+    "experience": "Cyprus Central Hospital\r\nHacettepe Üniversitesi Diş Hekimliği Fakültesi\r\nGazi Üniversitesi Diş Hekimliği Fakültesi\r\nAnkara Demetevler Diş Polikliniği\r\nElvankent Özel Diş Hastanesi\r\nMalo Clİnİc(Gözlemci hekim)",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/Yard.Dr_.-Dt.-Kaan-Asvaroglu-min.jpg"
+}
+{
+    "name": "Dr. Dt. Yezdan Erkcan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "X Orthesis and Prosthesis",
+    "education": "Başkent Üniversitesi Diş Hekimiği Fakültesi, 2011-2016Ankara Üniversitesi Protetik Diş Tedavisi Anabilim Dalı,  Protez uzmanlığı, 2016-2021",
+    "experience": "Cyprus Central Hospital, 2022-halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/YezdanErkcan.jpg"
+}
+{
+    "name": "Uzm. Dt. Deniz Dellaloğlu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Orthodontics",
+    "education": "İzmir Katip Çelebi Üniversitesi 2013-2018   İzmir Kordondent Ağız Diş Sağlığı Polikliniği 2018-2019",
+    "experience": "Cyprus Central Hospital 2020- halenDentaplus Diş Kliniği 2020- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/DenizDellaloglu.jpg"
+}
+{
+    "name": "Uzm. Dt. Seniha Öztoprak",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Periodontology (Gingival Diseases)",
+    "education": "Hacettepe Üniversitesi Diş Hekimliği, 2004-2009 Gazi Üniversitesi Diş Hekimliği, 2010-2015",
+    "experience": "Cyprus Central Hospital, 2017-HalenDr. Burhan Nalbantoğlu Devlet Hastanesi, 2016-HalenÖztoprak Diş Kliniği, 2015-Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/SenihaOztoprak-min.jpg"
+}
+{
+    "name": "Dt. Esra İlkerli",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Dentist",
+    "education": "Başkent Üniversitesi Diş Hekimliği Fakültesi, 2013-2018",
+    "experience": "Cyprus Central Hospital, 2019- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/EsraIlkerli.jpg"
+}
+{
+    "name": "Dr. Dt. Sıla Korun",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Pedodontics (Pediatric Dentistry)",
+    "education": "Yeditepe Üniversitesi Diş Hekimliği Fakültesi, 2006-2011Yakındoğu Üniversitesi Pedodonti Anabilim Dalı Yüksek Lisans-Doktora Programı, 2011-2017",
+    "experience": "Cyprus Central Hospital, 2018-halenDentalland Diş Kliniği, 2021-halenÇelikkaya Diş Kliniği, 2017-2021Yakındoğu Üniversitesi Diş Hekimliği Pedodonti Kliniği, 2011-2017",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/SilaKorun.jpg"
+}
+{
+    "name": "Biyolog Salih Tavukçu",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Laboratory",
+    "education": "Hacettepe Üniversitesi Biyoloji - 1994",
+    "experience": "Cyprus Central Hospital 1997 - Halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/SalihTavukcu.jpg"
+}
+{
+    "name": "Uzm. Emrah Özgü",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Laboratory",
+    "education": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Tıbbi Biyoloji, 2001-2005\r\nİzmir Bozyaka Eğitim ve Araştırma Hastanesi Tıbbi Biyokimya Uzmanlığı, 2006-2011",
+    "experience": "Cyprus Central Hospital, 2017-2018\r\nİskele Tıp Merkezi, 2018- halen \r\nİskele Tıp Merkezi, 2012-2017\r\nİzmir Bozyaka Eğitim ve Araştırma Hastanesi, 2006-2011",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/EmrahOzgu-1024x1024-min.jpg"
+}
+{
+    "name": "Uzm. Irmak Arcan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Language and Speech Disorders",
+    "education": "Wolverhampton University İşitme Engelliler Öğretmenliği, 2008-2011- İngiltere\nYüksek Lisans: Lancaster University Dil, Konuşma ve İşitme Bilimi, 2011-2012- İngiltere\r\nManchester University Odyoloji ve Konuşma Bozuklukları, 2012-2013- İngiltere",
+    "experience": "Cyprus Central Hospital 2017- halen\r\nLefke Avrupa Üniversitesi Uzm. Odyolog Dil ve Konuşma Bozuklukları Part-time Öğretim Görevlisi 2017- halen\r\nYDÜ Hastanesi KBB Anabilim Dalı, 2013-2017",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/IrmakArcan-1024x1024-min.jpg"
+}
+{
+    "name": "Dyt. Rabia Yalınca",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Nutrition and Diet",
+    "education": "Hacettepe Üniversitesi Sağlık Bilimleri Fakültesi Beslenme ve Diyetetik, 2003-2008",
+    "experience": "Cyprus Central Hospital, 2008- halen",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/RabiaYalinca.jpg"
+}
+{
+    "name": "Dyt. Turgut Arşan",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Nutrition and Diet",
+    "education": "Yakındoğu Üniversitesi Beslenme ve Diyetetik 2011-2015",
+    "experience": "Cyprus Central Hospital, 2022- halen\r\nMiracle Hospital, 2020- halen\r\nNis Tıp Merkezi, Beslenme ve Diyet, 2017-2020 \r\nAntalya Akdeniz Hastanesi, Beslenme ve Diyet, Mutfak ve Tüm Yataklı Servisler, 2015-2016",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/08/TurgutArsan.jpg"
+}
+{
+    "name": "Podolog Halide Dalokay",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Techniques Podology",
+    "education": "Öngel Kozmotoloji Koleji -City and Guilds Beauty Therapist, 2011-2013\r\nKıbrıs Amerikan Üniversitesi Sağlık Meslek Yüksek Okulu Podoloji Bölümü, 2020-2022",
+    "experience": "Cyprus Central Hospital, 2022- halen                                                                                                           Kleopatra'nın Tacı Sağlık ve Güzellik Merkezi, 2013-2022",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2022/12/Podolog-Halide-Dalokay.jpg"
+}
+{
+    "name": "Psk. İzlem Gülmez",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Psychology",
+    "education": "Yakın Doğu Üniversitesi Psikoloji Bölümü, 2022 (Yüksek Onur Derecesi ile mezun olmuştur.) Şu an Yakın Doğu Üniversitesi Klinik Psikoloji Yüksek Lisans Programına %100 burs ile devam etmektedir.",
+    "experience": "Cyprus Central Hospital Kıbrıs Çocuk Ergen Psikoterapi ve Aile Psikolojik Destek Merkezinde",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2023/03/Psikolog-Izlem-GULMEZ1.png"
+}
+{
+    "name": "Uzm. Dr. Erdem Karaman",
+    "clinic": "Cyprus Central Hospital",
+    "address": "Esref Bitlis Cad. Narlik Street, Famagusta",
+    "speciality": "Psychiatry",
+    "education": "Ege Üniversitesi Tıp Fakultesi 1986-1992\r\nBakırköy Ruh ve Sinir Hastalıkları Hastanesi 1995-2001",
+    "experience": "Cyprus Central hospital 2023 - halen     \r\nBarış Ruh ve Sinir Hastalıkları Hastanesi, 2019 - halen\r\nManisa Ruh ve Sinir Hastalıkları Hastanesi 2010-2014\r\nGirne Asker Hastanesi 2018-2019",
+    "phone_number": "+90 (392) 366 50 85",
+    "email": "info@cypruscentralhospital.com",
+    "image_src": "https://cypruscentralhospital.com/wp-content/uploads/2023/03/Psikiyatri-Erdem-Karaman.png"
+}
+Elapsed time for CCH: 16.19971776008606

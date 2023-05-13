@@ -1,0 +1,4 @@
+.env
+/venv
+*/node_modules
+how_to_run.txt
