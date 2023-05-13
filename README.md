@@ -40,6 +40,7 @@ npm i
 ```
 node app.js
 ```
+-------
 
 ### How to use with Docker
 - Build docker image using Dockerfile by running.
