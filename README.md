@@ -19,7 +19,14 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 - Start your Mysql server locally.
-- Run **init.sql** script on your Mysql server to create the tables.
+- Create a new database 'doctors_scraper', and then run **init.sql** script on your Mysql server to create the tables.
+- create .env file and add the your database information
+```
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=doctors_scraper
+```
 - Run scraper celery process.
 ```
 celery -A src.celery worker  --loglevel info
