@@ -37,12 +37,12 @@ DB_NAME=doctors_scraper
 ```
 celery -A src.celery worker  --loglevel info
 ```
-- To test the scraper, go to /tests/test_celery/ folder.
+- To test the process, go to /tests/test_celery/ folder.
 - Install node requiremnts (NOTE: npm and nodeJS should be already installed in your system) then run:
 ```
 npm i
 ```
-- Now test the scraper by running the testing app.
+- Now test it by running the testing app.
 ```
 node app.js
 ```
