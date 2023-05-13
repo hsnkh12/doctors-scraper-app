@@ -6,11 +6,19 @@
 ```
 git clone https://github.com/hsnkh12/doctors-scraper-app
 ```
-- Install py requiremntes.
+- Create **py** virtual environment 
+```
+python3 -m venv venv
+```
+- Activate your **py** environment
+```
+source venv/bin/activate
+```
+- Install **py** requiremntes.
 ```
 pip3 install -r requirements.txt
 ```
-- Run the scraper process.
+- Run scraper celery process.
 ```
 celery -A src.celery worker  --loglevel info
 ```
