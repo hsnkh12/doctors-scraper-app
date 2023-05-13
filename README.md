@@ -1,7 +1,6 @@
 # Doctors scraper app 
 
-### How to use 
-
+### How to test the scraper 
 - Clone the repo.
 ```
 git clone https://github.com/hsnkh12/doctors-scraper-app
@@ -18,6 +17,13 @@ source venv/bin/activate
 ```
 pip3 install -r requirements.txt
 ```
+- Go to tests folder, and run:
+```
+python3 test_scraper.py
+```
+
+
+### How to use it (without Docker)
 - Start your Mysql server locally.
 - Create a new database 'doctors_scraper', and then run **init.sql** script on your Mysql server to create the tables.
 - create .env file and add the your database information
@@ -42,7 +48,9 @@ node app.js
 ```
 -------
 
-### How to use with Docker
+### How to use it **with Docker**
+- Start your Mysql server locally.
+- Create a new database 'doctors_scraper', and then run **init.sql** script on your Mysql server to create the tables.
 - Build docker image using Dockerfile by running.
 ```
 docker build -t doctors-scraper-app .
