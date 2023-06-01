@@ -13,7 +13,7 @@ class DB:
         now = datetime.now()
         current_date = now.date()
 
-        sql = "INSERT INTO Doctor(clinic_id, spec_name, name, education, experience, phone_number, email, image_src, date_added) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        sql = "INSERT INTO Doctors(clinic_id, field_name, name, education, experience, phone_number, email, image_src, date_added) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s)"
         val = (doctor["clinic"], doctor["speciality"], doctor["name"], doctor["education"], doctor["experience"], doctor["phone_number"], doctor["email"], doctor["image_src"], current_date)
         try:
 
