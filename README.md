@@ -25,7 +25,7 @@ python3 test_scraper.py
 
 ### How to use it (without Docker)
 - Start your Mysql server locally.
-- Create a new database 'doctors_scraper', and then run **init.sql** script on your Mysql server to create the tables.
+- Create a new database 'doctors_scraper', and then create tables for doctors, specialities, and clinics, then run **init.sql** script on your Mysql server to create the tables.
 - create .env file and add the your database information
 ```
 DB_HOST=localhost
