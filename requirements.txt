@@ -24,3 +24,4 @@ translate==3.6.1
 urllib3==2.0.2
 vine==5.0.0
 wcwidth==0.2.6
+urllib3==1.26.6
